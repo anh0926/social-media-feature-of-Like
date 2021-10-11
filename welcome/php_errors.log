@@ -1,0 +1,45 @@
+[04-Dec-2020 04:13:49 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 12
+[04-Dec-2020 04:13:49 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.;C:\php\pear') in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 12
+[04-Dec-2020 04:13:49 UTC] PHP Notice:  Undefined variable: posts in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 33
+[04-Dec-2020 04:13:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 33
+[04-Dec-2020 04:14:15 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 43
+[04-Dec-2020 04:14:15 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 43
+[04-Dec-2020 04:14:30 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 43
+[04-Dec-2020 04:14:30 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 43
+[04-Dec-2020 04:14:46 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 43
+[04-Dec-2020 04:14:46 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 43
+[04-Dec-2020 04:17:30 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 43
+[04-Dec-2020 04:17:30 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\en.php on line 43
+[04-Dec-2020 04:17:50 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 12
+[04-Dec-2020 04:17:50 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.;C:\php\pear') in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 12
+[04-Dec-2020 04:17:50 UTC] PHP Notice:  Undefined variable: welcome_ini_array in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:17:50 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:17:50 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:17:50 UTC] PHP Notice:  Undefined variable: welcome_ini_array in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:17:50 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:17:50 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:17:50 UTC] PHP Notice:  Undefined variable: posts in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 33
+[04-Dec-2020 04:17:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 33
+[04-Dec-2020 04:18:04 UTC] PHP Notice:  Undefined variable: welcome_ini_array in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:04 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:04 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:04 UTC] PHP Notice:  Undefined variable: welcome_ini_array in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:04 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:04 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:04 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[04-Dec-2020 04:18:04 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[04-Dec-2020 04:18:27 UTC] PHP Notice:  Undefined index: hi in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:27 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:27 UTC] PHP Notice:  Undefined index: hi in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:27 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 30
+[04-Dec-2020 04:18:27 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[04-Dec-2020 04:18:27 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[04-Dec-2020 04:18:41 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[04-Dec-2020 04:18:41 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[04-Dec-2020 04:18:55 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[04-Dec-2020 04:18:55 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[04-Dec-2020 05:59:10 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[04-Dec-2020 05:59:10 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\assigment 3\welcome\hi.php on line 43
+[10-Dec-2020 06:09:06 UTC] PHP Notice:  Undefined index: user in H:\apache24\htdocs\PHP2020\test assigment\assigment 3\welcome\hi.php on line 30
+[10-Dec-2020 06:09:06 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\test assigment\assigment 3\welcome\hi.php on line 43
+[10-Dec-2020 06:09:06 UTC] PHP Notice:  Undefined index: id in H:\apache24\htdocs\PHP2020\test assigment\assigment 3\welcome\hi.php on line 43

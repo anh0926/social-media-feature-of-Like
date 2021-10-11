@@ -1,0 +1,200 @@
+[01-Dec-2020 05:32:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'demo' in H:\apache24\htdocs\PHP2020\assigment 3\config.php on line 10
+[01-Dec-2020 08:02:38 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 19
+[01-Dec-2020 08:02:38 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 19
+[01-Dec-2020 08:02:38 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:02:38 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:03:06 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:03:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:05:14 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:05:14 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:05:47 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:05:47 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:08:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:09:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:10:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:10:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:10:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 92
+[01-Dec-2020 08:29:08 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 40
+[01-Dec-2020 08:29:08 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 40
+[01-Dec-2020 08:29:08 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 87
+[01-Dec-2020 08:29:08 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 87
+[01-Dec-2020 08:29:56 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 40
+[01-Dec-2020 08:29:56 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 40
+[01-Dec-2020 08:29:56 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 87
+[01-Dec-2020 08:29:56 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 87
+[01-Dec-2020 08:30:02 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 40
+[01-Dec-2020 08:30:02 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 40
+[01-Dec-2020 08:30:02 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 87
+[01-Dec-2020 08:30:02 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 87
+[01-Dec-2020 08:30:10 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 40
+[01-Dec-2020 08:30:10 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 40
+[01-Dec-2020 08:30:10 UTC] PHP Notice:  Undefined variable: link in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 87
+[01-Dec-2020 08:30:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 87
+[01-Dec-2020 08:41:07 UTC] PHP Notice:  Undefined variable: _SESSION in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 15
+[01-Dec-2020 08:41:07 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 15
+[01-Dec-2020 08:42:10 UTC] PHP Notice:  Undefined variable: _SESSION in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 15
+[01-Dec-2020 08:42:10 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 15
+[01-Dec-2020 08:42:14 UTC] PHP Notice:  Undefined variable: _SESSION in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 15
+[01-Dec-2020 08:42:14 UTC] PHP Notice:  Trying to access array offset on value of type null in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 15
+[01-Dec-2020 08:51:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 59
+[01-Dec-2020 23:28:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in H:\apache24\htdocs\PHP2020\assigment 3\config.php on line 10
+[01-Dec-2020 23:28:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in H:\apache24\htdocs\PHP2020\assigment 3\database.php on line 7
+[01-Dec-2020 23:42:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in H:\apache24\htdocs\PHP2020\assigment 3\database.php on line 7
+[01-Dec-2020 23:43:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in H:\apache24\htdocs\PHP2020\assigment 3\database.php on line 7
+[01-Dec-2020 23:43:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in H:\apache24\htdocs\PHP2020\assigment 3\database.php on line 7
+[01-Dec-2020 23:43:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in H:\apache24\htdocs\PHP2020\assigment 3\database.php on line 7
+[02-Dec-2020 03:25:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 59
+[02-Dec-2020 04:48:43 UTC] PHP Parse error:  syntax error, unexpected ',' in H:\apache24\htdocs\PHP2020\assigment 3\database.php on line 63
+[02-Dec-2020 05:29:28 UTC] PHP Notice:  Undefined variable: conn in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 37
+[02-Dec-2020 05:29:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 37
+[02-Dec-2020 05:29:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 51
+[02-Dec-2020 05:29:38 UTC] PHP Notice:  Undefined variable: conn in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 37
+[02-Dec-2020 05:29:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 37
+[02-Dec-2020 05:29:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 51
+[02-Dec-2020 06:51:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:51:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 62
+[02-Dec-2020 06:52:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 5
+[02-Dec-2020 06:52:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 5
+[02-Dec-2020 06:52:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 5
+[02-Dec-2020 06:52:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 5
+[02-Dec-2020 06:52:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:52:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:52:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:52:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:52:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:52:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 06:58:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 141
+[02-Dec-2020 07:19:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:19:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 152
+[02-Dec-2020 07:30:29 UTC] PHP Notice:  Undefined variable: posts in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 29
+[02-Dec-2020 07:30:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 29
+[03-Dec-2020 01:54:00 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 5
+[03-Dec-2020 01:54:22 UTC] PHP Warning:  Unterminated comment starting line 6 in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 6
+[03-Dec-2020 01:54:41 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in H:\apache24\htdocs\PHP2020\assigment 3\login.php on line 6
+[03-Dec-2020 01:55:24 UTC] PHP Notice:  Undefined variable: posts in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 106
+[03-Dec-2020 01:55:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in H:\apache24\htdocs\PHP2020\assigment 3\register.php on line 106
+[03-Dec-2020 04:10:42 UTC] PHP Notice:  Undefined offset: 1 in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 78
+[03-Dec-2020 04:10:42 UTC] PHP Notice:  Undefined offset: 1 in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 79
+[03-Dec-2020 04:10:43 UTC] PHP Notice:  Undefined offset: 1 in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 78
+[03-Dec-2020 04:10:43 UTC] PHP Notice:  Undefined offset: 1 in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 79
+[03-Dec-2020 04:10:44 UTC] PHP Notice:  Undefined offset: 1 in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 78
+[03-Dec-2020 04:10:44 UTC] PHP Notice:  Undefined offset: 1 in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 79
+[03-Dec-2020 04:10:44 UTC] PHP Notice:  Undefined offset: 1 in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 78
+[03-Dec-2020 04:10:44 UTC] PHP Notice:  Undefined offset: 1 in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 79
+[03-Dec-2020 04:19:22 UTC] PHP Warning:  Unterminated comment starting line 7 in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 7
+[03-Dec-2020 04:19:23 UTC] PHP Warning:  Unterminated comment starting line 7 in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 7
+[03-Dec-2020 04:19:24 UTC] PHP Warning:  Unterminated comment starting line 7 in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 7
+[03-Dec-2020 05:45:33 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:34 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:34 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:34 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:35 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:35 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:41 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:41 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:42 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:42 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:42 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:42 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:43 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:43 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:43 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:43 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:43 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:44 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:44 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:44 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:44 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:45 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:45 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:45 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:46 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:47 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:45:50 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 05:46:01 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 51
+[03-Dec-2020 06:01:28 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 30
+[03-Dec-2020 06:01:29 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 30
+[03-Dec-2020 06:01:29 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 30
+[03-Dec-2020 06:01:30 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 30
+[03-Dec-2020 06:01:30 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 30
+[03-Dec-2020 06:01:31 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 30
+[03-Dec-2020 06:02:01 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 30
+[03-Dec-2020 06:02:02 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 30
+[03-Dec-2020 06:02:02 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 30
+[03-Dec-2020 06:09:23 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:24 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:25 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:25 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:25 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:25 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:26 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:26 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:26 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:27 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:27 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:27 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:28 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:28 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:29 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:29 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 06:09:29 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 07:22:19 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 32
+[03-Dec-2020 07:25:33 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 33
+[03-Dec-2020 07:25:33 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 33
+[03-Dec-2020 07:25:34 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 33
+[03-Dec-2020 07:25:34 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome 2.php on line 41
+[03-Dec-2020 21:45:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'mydb' in H:\apache24\htdocs\PHP2020\assigment 3\server.php on line 2
+[03-Dec-2020 21:46:02 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome.php on line 33
+[03-Dec-2020 21:46:22 UTC] PHP Notice:  Undefined index: username in H:\apache24\htdocs\PHP2020\assigment 3\welcome 2.php on line 41
+[10-Dec-2020 06:32:08 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in H:\apache24\htdocs\PHP2020\test assigment\assigment 3\login.php on line 47
+[10-Dec-2020 06:40:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in H:\apache24\htdocs\PHP2020\test assigment\assigment 3\login.php on line 63
+[10-Dec-2020 07:25:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in H:\apache24\htdocs\PHP2020\test assigment\assigment 3\login.php on line 64
+[10-Dec-2020 07:31:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in H:\apache24\htdocs\PHP2020\test assigment\assigment 3\login.php on line 64
+[10-Dec-2020 07:34:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in H:\apache24\htdocs\PHP2020\test assigment\assigment 3\login.php on line 64
+[10-Dec-2020 07:37:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in H:\apache24\htdocs\PHP2020\test assigment\assigment 3\login.php on line 64

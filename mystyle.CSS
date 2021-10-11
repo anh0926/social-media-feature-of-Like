@@ -1,0 +1,54 @@
+body { background: white; font-family:verdana}
+.nav-link{
+	text-align: right;
+	color: black;
+}
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+  text-align : center;
+  
+
+}
+
+.fa-thumbs-up{
+	font-size: 20px;
+}
+
+
+p  {
+  color:black;
+  font-family: courier;
+  font-size: 150%;
+  text-align : center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imgButton{
+  display: inline-block;
+  vertical-align: middle
+  right: 40px;
+  margin-left: 700px;
+  margin-right: auto;
+}
+
+.countlike {
+ margin-left: auto;
+ margin-right: auto;
+ margin : 5px;
+}
+
+h2 {
+  color: black;
+  font-family: verdana;
+  font-size: 90%;
+  text-align : center;
+  
+
+}
