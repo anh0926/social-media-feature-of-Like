@@ -1,4 +1,4 @@
-# social media feature of Like
+# Social media feature of Like
 this is an early draft so use it as your own risk
 
 ## Features:
